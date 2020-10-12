@@ -11,9 +11,9 @@
 ### :sparkles: Current Goal/s: Achieve that ash blonde hair color :heart_eyes::yellow_heart:
 
 ### 📫 Follow me to know more! <br/>
-- <img src="images/fb.png" width="18"> https://www.facebook.com/juisa.desu/ <br/>
-- <img src="images/insta.jpg" width="18"> https://www.instagram.com/iszah.desu// <br/>
-- <img src="images/twit.png" width="18"> https://twitter.com/iszahdesu <br/>
+- <img src="images/fb.png" width="18">  https://www.facebook.com/juisa.desu/ <br/>
+- <img src="images/insta.jpg" width="18">  https://www.instagram.com/iszah.desu// <br/>
+- <img src="images/twit.png" width="18">  https://twitter.com/iszahdesu <br/>
 
 <b> "There are will always be some people who won't believe in you. Don't let it be you."</b>
 <!--
